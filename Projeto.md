@@ -1,5 +1,5 @@
 ## [Mega Hack Women](https://www.megahackwomen.com.br/) 
-####  [Olist](https://olist.com/) | [Shawee](https://shawee.io/pt/) 
+####  Desafio [Olist](https://olist.com/) | [Shawee](https://shawee.io/pt/) 
 
 
 
@@ -17,11 +17,11 @@
 
 O [**OliBot**](https://mega-hack-women.herokuapp.com/)  foi criado para facilitar a comunicação entre a plataforma e o usuário e será utilizado para informar o usuário sobre a utilização da plataforma, bem como para melhorar sua experiência, através de quiz e games interativos. 
 
-Já o [**OlistBoard**](https://mega-hack-women.herokuapp.com/) auxiliará nacriação de um dashboards dentro da plataforma do Olist a fim de promover aos lojistas:
+Já o [**OlistBoard**](https://mega-hack-women.herokuapp.com/) auxiliará na criação de um dashboards dentro da plataforma do Olist a fim de promover aos lojistas:
 - um maior entendimento dos dados de seu negócio;
 - auxiliá-los nas tomadas de decisão;
 - analise da quantidade de vendas; 
-- faturamentos e preços por mês ;
+- faturamentos e preços por mês;
 - incluindo a opção de filtros cuistomizáveis.
 
 
